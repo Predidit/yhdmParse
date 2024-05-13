@@ -8,5 +8,5 @@
 
 `go run main.go <responseText>`
 
-其中 `responseText` 需要替换为从樱花动漫接口 `https://www.iyhdmm.com/playurl` 获取的加密返回值。
+其中 `responseText` 需要替换为从樱花动漫接口 `https://www.yhmgo.com/playurl` 获取的加密返回值。
 
